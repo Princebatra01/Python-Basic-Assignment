@@ -9,7 +9,7 @@ To get started with the assignments, follow these steps:
 
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/python-basic-assignment.git
+git clone https://github.com/your-username/Python-Basic-Assignment.git
 Navigate to the assignment directory you wish to work on:
 cd python-basic-assignment/assignment-name
 
